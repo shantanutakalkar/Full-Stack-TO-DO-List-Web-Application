@@ -16,6 +16,17 @@ Step 3: Display list
 Step 4: Delete empty list
 Step 5: Create task
 Step 6: Delete a task
+
+Learning From This Project - How tomake frontend and backend of website. I learned about how to make databases in mongodb and perform different operation on this.
+Also I learned abour how to use GET methood and POST methood in this project. and also I learned about how to integrate all the servers database and frontend together all binding and deployment of ot on the heroku.
+
+
 ![Annotation 2022-06-02 000543](https://user-images.githubusercontent.com/68156453/171477760-d36bb7bf-5d1f-472a-887c-8d7598109985.jpg)
+
+
+
 ![Annotation 2022-06-02 000049](https://user-images.githubusercontent.com/68156453/171476970-cdd34590-d5cc-4dec-ba03-3adb70237899.jpg)
+
+
+
 ![Annotation 2022-06-01 235918](https://user-images.githubusercontent.com/68156453/171476986-60529fed-cf3e-4952-82b8-476d49e6d7e9.jpg)
